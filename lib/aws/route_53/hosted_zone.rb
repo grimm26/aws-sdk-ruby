@@ -30,6 +30,7 @@ module AWS
 
       S3_HOSTED_ZONE_IDS = {
           'us-east-1' => 'Z3AQBSTGFYJSTF',
+          'us-east-2' => 'Z2O1EMRO9K5GLX',
           'us-west-2' => 'Z3BJ6K6RIION7M',
           'us-west-1' => 'Z2F56UZL2M1ACD',
           'eu-west-1' => 'Z1BKCTXD74EZPE',
